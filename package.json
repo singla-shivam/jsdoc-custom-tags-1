@@ -1,0 +1,8 @@
+{
+  "name": "jsdoc-custom-tags",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:galaxycard/jsdoc-custom-tags.git",
+  "author": "shivam1420 <shivam.singla@galaxycard.in>",
+  "license": "MIT"
+}
